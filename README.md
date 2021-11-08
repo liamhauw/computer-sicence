@@ -71,3 +71,5 @@
 - Working Effectively with Legacy Code
 - Agile Software Development
 - Design Patterns
+
+# Notes

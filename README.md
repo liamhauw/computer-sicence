@@ -54,7 +54,7 @@
  
 # Software Engineering
 ## C++
--[x] C++ Primer(5th)
+- C++ Primer(5th)
 - [Bjarne Stroustrup](https://www.stroustrup.com)
 - [C++ Offical Website](https://isocpp.org)
 - [The C++ Programming Language(4th)](https://www.stroustrup.com/4th.html)

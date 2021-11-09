@@ -41,15 +41,15 @@
 - [x] [Direct3D 12 Doc](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
 - [x] Introduction to 3D Game Programming with DirectX 12
 - [x] [OpenGL Offical Website](https://www.opengl.org)
-- [Learn Opengl](https://learnopengl.com)
+- [ ] [Learn Opengl](https://learnopengl.com)
 - [x] [Gamma](https://www.scantips.com/lights/gamma2.html#o6)
-- Fundamentals of Computer Graphics(4th)
-- Computer Graphics Principles and Practice(3rd)
-- Real-Time Rendering(3rd)
-- Physically Based Rendering(3rd)
-- Fluid Engine Development
-- The Art of Fluid Animation
-- Fluid Simulation for Computer Graphics(2nd)
+- [ ] Fundamentals of Computer Graphics(4th)
+- [ ] Computer Graphics Principles and Practice(3rd)
+- [ ] Real-Time Rendering(3rd)
+- [ ] Physically Based Rendering(3rd)
+- [ ] Fluid Engine Development
+- [ ] The Art of Fluid Animation
+- [ ] Fluid Simulation for Computer Graphics(2nd)
  
 # Software Engineering
 ## C++
@@ -58,15 +58,15 @@
 - [x] C++ Primer(5th)
 - [x] [The C++ Programming Language(4th)](https://www.stroustrup.com/4th.html)
 - [x] Effective C++(3rd)
-- Effective Modern C++
-- C++ Coding Standards
-- The C++ Standard Library(2nd)
+- [ ] Effective Modern C++
+- [ ] C++ Coding Standards
+- [ ] The C++ Standard Library(2nd)
 ## Software Development
-- The Mythical Man-Month
-- The Practice of Programming
-- Refactoring
-- Code Complete 2
-- Clean Code
-- Working Effectively with Legacy Code
-- Agile Software Development
-- Design Patterns
+- [ ] The Mythical Man-Month
+- [ ] The Practice of Programming
+- [ ] Refactoring
+- [ ] Code Complete 2
+- [ ] Clean Code
+- [ ] Working Effectively with Legacy Code
+- [ ] Agile Software Development
+- [ ] Design Patterns

@@ -23,10 +23,10 @@
 
 # Utilities
 - [x] Dash
-- [CMake](https://cmake.org)
-- [Git](https://git-scm.com)
-- [Github](https://github.com)
-- [VSCode](https://code.visualstudio.com)
+- [x] [CMake](https://cmake.org)
+- [x] [Git](https://git-scm.com)
+- [x] [Github](https://github.com)
+- [x] [VSCode](https://code.visualstudio.com)
 
 # Data Structures and Algorithms
 
@@ -34,15 +34,15 @@
 - [Computer Systems A Programmer's Perspective(3rd)](http://csapp.cs.cmu.edu/3e/home.html)
 
 # Computer Networks
+- [x] [Web development](https://www.youtube.com/watch?v=VfGW0Qiy2I0)
 - Computer Networking A Top-Down Approach(7th)
-- [Web development](https://www.youtube.com/watch?v=VfGW0Qiy2I0)
 
 # Computer Graphics and Visualization
-- [Direct3D 12 Doc](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
-- Introduction to 3D Game Programming with DirectX 12
-- [OpenGL Offical Website](https://www.opengl.org)
+- [x] [Direct3D 12 Doc](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
+- [x] Introduction to 3D Game Programming with DirectX 12
+- [x] [OpenGL Offical Website](https://www.opengl.org)
 - [Learn Opengl](https://learnopengl.com)
-- [Gamma](https://www.scantips.com/lights/gamma2.html#o6)
+- [x] [Gamma](https://www.scantips.com/lights/gamma2.html#o6)
 - Fundamentals of Computer Graphics(4th)
 - Computer Graphics Principles and Practice(3rd)
 - Real-Time Rendering(3rd)
@@ -53,11 +53,11 @@
  
 # Software Engineering
 ## C++
-- [C++ Offical Website](https://isocpp.org)
-- [Bjarne Stroustrup](https://www.stroustrup.com)
-- C++ Primer(5th)
-- [The C++ Programming Language(4th)](https://www.stroustrup.com/4th.html)
-- Effective C++(3rd)
+- [x] [C++ Offical Website](https://isocpp.org)
+- [x] [Bjarne Stroustrup](https://www.stroustrup.com)
+- [x] C++ Primer(5th)
+- [x] [The C++ Programming Language(4th)](https://www.stroustrup.com/4th.html)
+- [x] Effective C++(3rd)
 - Effective Modern C++
 - C++ Coding Standards
 - The C++ Standard Library(2nd)

@@ -22,7 +22,7 @@
     - Software Engineering
 
 # Utilities
-- Dash
+- [x] Dash
 - [CMake](https://cmake.org)
 - [Git](https://git-scm.com)
 - [Github](https://github.com)

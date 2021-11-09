@@ -1,5 +1,5 @@
 # Introduction
- - Computer science is the study of algorithmic processes, computational machines and computation itself.
+ - Computer science is the study of algorithmic processes, computational machines and computation itself
 
 # Field
 - Theoretical Computer Science

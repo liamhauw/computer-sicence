@@ -35,7 +35,7 @@
 
 # Computer Networks
 - [x] [Web development](https://www.youtube.com/watch?v=VfGW0Qiy2I0)
-- Computer Networking A Top-Down Approach(7th)
+- [ ] Computer Networking A Top-Down Approach(7th)
 
 # Computer Graphics and Visualization
 - [x] [Direct3D 12 Doc](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)

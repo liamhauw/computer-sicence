@@ -31,7 +31,7 @@
 # Data Structures and Algorithms
 
 # Computer Architecture and Organization
-- [Computer Systems A Programmer's Perspective(3rd)](http://csapp.cs.cmu.edu/3e/home.html)
+- [ ] [Computer Systems A Programmer's Perspective(3rd)](http://csapp.cs.cmu.edu/3e/home.html)
 
 # Computer Networks
 - [x] [Web development](https://www.youtube.com/watch?v=VfGW0Qiy2I0)

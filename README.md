@@ -29,13 +29,12 @@
 - [VSCode](https://code.visualstudio.com)
 
 # Data Structures and Algorithms
-- Introduction to Algorithms(3rd)
 
 # Computer Architecture and Organization
 - [Computer Systems A Programmer's Perspective(3rd)](http://csapp.cs.cmu.edu/3e/home.html)
 
 # Computer Networks
-- Computer Networking A Top-Down Approach
+- Computer Networking A Top-Down Approach(7th)
 - [Web development](https://www.youtube.com/watch?v=VfGW0Qiy2I0)
 
 # Computer Graphics and Visualization

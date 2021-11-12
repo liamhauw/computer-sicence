@@ -43,6 +43,7 @@
 - [x] [OpenGL Offical Website](https://www.opengl.org)
 - [ ] [Learn Opengl](https://learnopengl.com)
 - [x] [Gamma](https://www.scantips.com/lights/gamma2.html#o6)
+- [ ] Mathematics for 3D Game programming and Computer Graphics(3rd)
 - [ ] Fundamentals of Computer Graphics(4th)
 - [ ] Computer Graphics Principles and Practice(3rd)
 - [ ] Real-Time Rendering(3rd)

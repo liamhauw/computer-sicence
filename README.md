@@ -47,7 +47,7 @@
 - [ ] Fundamentals of Computer Graphics(4th)
 - [ ] Real-Time Rendering(3rd)
 - [ ] Physically Based Rendering(3rd)
-- [ ] Fluid Engine Development
+- [x] Fluid Engine Development
 - [ ] The Art of Fluid Animation
 - [ ] Fluid Simulation for Computer Graphics(2nd)
  

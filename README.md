@@ -38,9 +38,9 @@
 - [ ] Computer Networking A Top-Down Approach(7th)
 
 # Computer Graphics and Visualization
-- [x] [Direct3D 12 Doc](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
+- [x] [Direct3D12 Website](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
 - [x] Introduction to 3D Game Programming with DirectX 12
-- [x] [OpenGL Offical Website](https://www.opengl.org)
+- [x] [OpenGL Website](https://www.khronos.org/opengl/)
 - [ ] [Learn Opengl](https://learnopengl.com)
 - [x] [Gamma](https://www.scantips.com/lights/gamma2.html#o6)
 - [x] Mathematics for 3D Game programming and Computer Graphics(3rd)

@@ -42,7 +42,6 @@
 - [x] Introduction to 3D Game Programming with DirectX 12
 - [x] [OpenGL Website](https://www.khronos.org/opengl/)
 - [ ] [LearnOpenGL](https://learnopengl.com)
-- [x] [Gamma](https://www.scantips.com/lights/gamma2.html#o6)
 - [x] Mathematics for 3D Game programming and Computer Graphics(3rd)
 - [ ] Fundamentals of Computer Graphics(4th)
 - [ ] Real-Time Rendering(3rd)

@@ -43,6 +43,8 @@
 - [x] [OpenGL Website](https://www.khronos.org/opengl/)
 - [ ] [LearnOpenGL](https://learnopengl.com)
 - [x] Mathematics for 3D Game programming and Computer Graphics(3rd)
+- [x] Physics and Math of Shading
+- [x] Real Shading in Unreal Engine 4
 - [ ] Fundamentals of Computer Graphics(4th)
 - [ ] Real-Time Rendering(3rd)
 - [ ] Physically Based Rendering(3rd)

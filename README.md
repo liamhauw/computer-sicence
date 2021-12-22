@@ -41,7 +41,7 @@
 - [x] [Direct3D12 Website](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
 - [x] Introduction to 3D Game Programming with DirectX 12
 - [x] [OpenGL Website](https://www.khronos.org/opengl/)
-- [ ] [LearnOpenGL](https://learnopengl.com)
+- [x] [LearnOpenGL](https://learnopengl.com)
 - [x] Mathematics for 3D Game programming and Computer Graphics(3rd)
 - [x] Physics and Math of Shading
 - [x] Real Shading in Unreal Engine 4

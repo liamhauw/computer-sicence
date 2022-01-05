@@ -38,9 +38,9 @@
 - [ ] Computer Networking A Top-Down Approach(7th)
 
 # Computer Graphics and Visualization
-- [x] [Direct3D12 Website](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
+- [x] [Direct3D12](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
 - [x] Introduction to 3D Game Programming with DirectX 12
-- [x] [OpenGL Website](https://www.khronos.org/opengl/)
+- [x] [OpenGL](https://www.khronos.org/opengl/)
 - [x] [LearnOpenGL](https://learnopengl.com)
 - [x] Mathematics for 3D Game programming and Computer Graphics(3rd)
 - [x] Physics and Math of Shading
@@ -51,7 +51,7 @@
  
 # Software Engineering
 ## C++
-- [x] [C++ Offical Website](https://isocpp.org)
+- [x] [C++](https://isocpp.org)
 - [x] [Bjarne Stroustrup](https://www.stroustrup.com)
 - [x] C++ Primer(5th)
 - [x] [The C++ Programming Language(4th)](https://www.stroustrup.com/4th.html)

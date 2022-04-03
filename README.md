@@ -22,8 +22,8 @@
     - Software Engineering
 
 # Utilities
-- [x] Dash
 - [x] [CMake](https://cmake.org)
+- [x] Dash
 - [x] [Git](https://git-scm.com)
 - [x] [Github](https://github.com)
 - [x] [VSCode](https://code.visualstudio.com)

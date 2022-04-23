@@ -39,8 +39,8 @@
 - [x] Fluid Engine Development
 - [ ] The Art of Fluid Animation
 - [ ] Fluid Simulation for Computer Graphics(2nd)
-- [x] [Direct3D12](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
 - [x] Introduction to 3D Game Programming with DirectX 12
+- [x] [Direct3D12](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
 - [x] [OpenGL](https://www.khronos.org/opengl/)
 - [x] [LearnOpenGL](https://learnopengl.com)
  

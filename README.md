@@ -22,36 +22,39 @@
     - Software Engineering
 
 # Data Structures and Algorithms
+- [x] Data Structures Book
+- [ ] Algorithms(https://programmercarl.com)
+- [ ] LeetCode(https://leetcode-cn.com)
 
 # Computer Systems
 - [ ] [Computer Systems A Programmer's Perspective(3rd)](http://csapp.cs.cmu.edu/3e/home.html)
 
 # Computer Networks
-- [x] [Web development](https://www.youtube.com/watch?v=VfGW0Qiy2I0)
 - [ ] Computer Networking A Top-Down Approach(7th)
+- [x] [Web development](https://www.youtube.com/watch?v=VfGW0Qiy2I0)
 
 # Computer Graphics and Visualization
-- [x] [Direct3D12](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
-- [x] Introduction to 3D Game Programming with DirectX 12
-- [x] [OpenGL](https://www.khronos.org/opengl/)
-- [x] [LearnOpenGL](https://learnopengl.com)
 - [x] Mathematics for 3D Game programming and Computer Graphics(3rd)
-- [x] Physics and Math of Shading
 - [ ] Real-Time Rendering(3rd)
 - [x] Fluid Engine Development
 - [ ] The Art of Fluid Animation
 - [ ] Fluid Simulation for Computer Graphics(2nd)
+- [x] [Direct3D12](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
+- [x] Introduction to 3D Game Programming with DirectX 12
+- [x] [OpenGL](https://www.khronos.org/opengl/)
+- [x] [LearnOpenGL](https://learnopengl.com)
  
 # Software Engineering
 ## C++
-- [x] [C++](https://isocpp.org)
-- [x] [Bjarne Stroustrup](https://www.stroustrup.com)
 - [x] C++ Primer(5th)
 - [x] [The C++ Programming Language(4th)](https://www.stroustrup.com/4th.html)
 - [x] Effective C++(3rd)
 - [ ] Effective Modern C++
 - [ ] C++ Coding Standards
 - [ ] The C++ Standard Library(2nd)
+- [x] [Bjarne Stroustrup](https://www.stroustrup.com)
+- [x] [C++](https://isocpp.org)
+- [ ] [LLVM](https://www.llvm.org)
 ## Software Development
 - [ ] The Mythical Man-Month
 - [ ] The Practice of Programming

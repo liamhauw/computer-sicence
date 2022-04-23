@@ -21,16 +21,9 @@
     - Social Computing and Human–Computer Interaction
     - Software Engineering
 
-# Utilities
-- [x] [CMake](https://cmake.org)
-- [x] Dash
-- [x] [Git](https://git-scm.com)
-- [x] [Github](https://github.com)
-- [x] [VSCode](https://code.visualstudio.com)
-
 # Data Structures and Algorithms
 
-# Computer Architecture and Organization
+# Computer Systems
 - [ ] [Computer Systems A Programmer's Perspective(3rd)](http://csapp.cs.cmu.edu/3e/home.html)
 
 # Computer Networks

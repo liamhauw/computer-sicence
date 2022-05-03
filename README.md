@@ -27,7 +27,7 @@
 - [ ] LeetCode(https://leetcode-cn.com)
 
 # Computer Systems
-- [ ] [Computer Systems A Programmer's Perspective(3rd)](http://csapp.cs.cmu.edu/3e/home.html)
+- [x] [Computer Systems A Programmer's Perspective(3rd)](http://csapp.cs.cmu.edu/3e/home.html)
 
 # Computer Networks
 - [ ] Computer Networking A Top-Down Approach(7th)

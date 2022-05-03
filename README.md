@@ -34,15 +34,21 @@
 
 # Computer Graphics and Visualization
 - [x] Mathematics for 3D Game programming and Computer Graphics(3rd)
+- [ ] Funamentals of Computer Graphics
+- [ ] [GAMES](https://games-cn.org)
+## Modeling
+
+## Rendering
 - [ ] Real-Time Rendering(3rd)
+## Animation
 - [x] Fluid Engine Development
 - [ ] The Art of Fluid Animation
 - [ ] Fluid Simulation for Computer Graphics(2nd)
+## API
 - [x] [Direct3D12](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
 - [x] Introduction to 3D Game Programming with DirectX 12
 - [x] [OpenGL](https://www.khronos.org/opengl/)
 - [x] [LearnOpenGL](https://learnopengl.com)
-- [ ] [GAMES](https://games-cn.org)
  
 # Software Engineering
 ## C++

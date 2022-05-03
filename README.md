@@ -48,10 +48,10 @@
 - [ ] [GAMES103 Intro to Physics-Based Animation](https://www.bilibili.com/video/BV12Q4y1S73g)
 - [ ] [GAMES201 Advanced Physics Engine 2020](https://www.bilibili.com/video/BV1ZK411H7Hc)
 ### API
-- [x] [OpenGL](https://www.khronos.org/opengl/)
 - [x] [LearnOpenGL](https://learnopengl.com)
-- [x] [Direct3D12](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
 - [x] Introduction to 3D Game Programming with DirectX 12
+- [x] [OpenGL](https://www.khronos.org/opengl/)
+- [x] [Direct3D12](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
 
 ### Game Engine
 - [ ] Game Engine Architecture
@@ -65,6 +65,6 @@
 - [ ] Effective Modern C++
 - [ ] C++ Coding Standards
 - [ ] The C++ Standard Library(2nd)
-- [x] [Bjarne Stroustrup](https://www.stroustrup.com)
 - [x] [C++](https://isocpp.org)
+- [x] [Bjarne Stroustrup](https://www.stroustrup.com)
 - [x] [LLVM](https://www.llvm.org)

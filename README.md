@@ -44,11 +44,15 @@
 - [x] Fluid Engine Development
 - [ ] The Art of Fluid Animation
 - [ ] Fluid Simulation for Computer Graphics(2nd)
+- [ ] [GAMES103-Intro to Physics-Based Animation](https://www.bilibili.com/video/BV12Q4y1S73g)
 ## API
 - [x] [Direct3D12](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
 - [x] Introduction to 3D Game Programming with DirectX 12
 - [x] [OpenGL](https://www.khronos.org/opengl/)
 - [x] [LearnOpenGL](https://learnopengl.com)
+## Game Engine
+- [ ] Game Engine Architecture
+- [ ] [GAMES104-Modern Game Engine](https://www.bilibili.com/video/BV1oU4y1R7Km)
  
 # Software Engineering
 ## C++

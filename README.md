@@ -42,7 +42,7 @@
 - [x] Introduction to 3D Game Programming with DirectX 12
 - [x] [OpenGL](https://www.khronos.org/opengl/)
 - [x] [LearnOpenGL](https://learnopengl.com)
-- [ ] [GAMES-Webinar](https://space.bilibili.com/512313464)
+- [ ] [GAMES](https://games-cn.org)
  
 # Software Engineering
 ## C++

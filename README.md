@@ -66,4 +66,4 @@
 - [ ] The C++ Standard Library(2nd)
 - [x] [Bjarne Stroustrup](https://www.stroustrup.com)
 - [x] [C++](https://isocpp.org)
-- [ ] [LLVM](https://www.llvm.org)
+- [x] [LLVM](https://www.llvm.org)

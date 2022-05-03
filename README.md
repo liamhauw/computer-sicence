@@ -1,7 +1,7 @@
 # Introduction
- - Computer science is the study of algorithmic processes, computational machines and computation itself.
+ - Computer science is the study of computation, automation, and information.
 
-# Field
+# Fields
 - Theoretical Computer Science
     - Theory of Computation
     - Information and Coding Theory
@@ -22,7 +22,7 @@
     - Software Engineering
 
 # Data Structures and Algorithms
-- [x] Data Structures Book
+- [x] Data Structures
 - [ ] [Algorithms](https://programmercarl.com)
 - [ ] [LeetCode](https://leetcode-cn.com)
 
@@ -38,8 +38,8 @@
 - [x] Fluid Engine Development
 - [ ] The Art of Fluid Animation
 - [ ] Fluid Simulation for Computer Graphics(2nd)
-- [x] Introduction to 3D Game Programming with DirectX 12
 - [x] [Direct3D12](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
+- [x] Introduction to 3D Game Programming with DirectX 12
 - [x] [OpenGL](https://www.khronos.org/opengl/)
 - [x] [LearnOpenGL](https://learnopengl.com)
  

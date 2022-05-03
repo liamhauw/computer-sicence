@@ -30,7 +30,6 @@
 - [x] [Computer Systems A Programmer's Perspective(3rd)](http://csapp.cs.cmu.edu/3e/home.html)
 
 # Computer Networks
-- [ ] Computer Networking A Top-Down Approach(7th)
 - [x] [Web development](https://www.youtube.com/watch?v=VfGW0Qiy2I0)
 
 # Computer Graphics and Visualization

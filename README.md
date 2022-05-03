@@ -23,8 +23,8 @@
 
 # Data Structures and Algorithms
 - [x] Data Structures Book
-- [ ] Algorithms(https://programmercarl.com)
-- [ ] LeetCode(https://leetcode-cn.com)
+- [ ] [Algorithms](https://programmercarl.com)
+- [ ] [LeetCode](https://leetcode-cn.com)
 
 # Computer Systems
 - [x] [Computer Systems A Programmer's Perspective(3rd)](http://csapp.cs.cmu.edu/3e/home.html)

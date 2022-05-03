@@ -57,6 +57,14 @@
   - [ ] [GAMES104 Modern Game Engine](https://www.bilibili.com/video/BV1oU4y1R7Km)
  
 # Software Engineering
+- [ ] The Mythical Man-Month
+- [ ] The Practice of Programming
+- [ ] Refactoring
+- [ ] Code Complete 2
+- [ ] Clean Code
+- [ ] Working Effectively with Legacy Code
+- [ ] Agile Software Development
+- [ ] Design Patterns
   ## C++
   - [x] C++ Primer(5th)
   - [x] [The C++ Programming Language(4th)](https://www.stroustrup.com/4th.html)
@@ -68,11 +76,4 @@
   - [x] [C++](https://isocpp.org)
   - [ ] [LLVM](https://www.llvm.org)
   ## Software Development
-  - [ ] The Mythical Man-Month
-  - [ ] The Practice of Programming
-  - [ ] Refactoring
-  - [ ] Code Complete 2
-  - [ ] Clean Code
-  - [ ] Working Effectively with Legacy Code
-  - [ ] Agile Software Development
-  - [ ] Design Patterns
+  

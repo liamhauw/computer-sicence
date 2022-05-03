@@ -75,5 +75,4 @@
   - [x] [Bjarne Stroustrup](https://www.stroustrup.com)
   - [x] [C++](https://isocpp.org)
   - [ ] [LLVM](https://www.llvm.org)
-  ## Software Development
   

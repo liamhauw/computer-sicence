@@ -11,7 +11,7 @@
   - Artificial Intelligence
   - [Computer Architecture and Organization](https://github.com/liamhauw/computer-sicence/blob/main/README.md#computer-architecture-and-organization)
   - Concurrent, Parallel and Distributed Computing
-  - Computer Networks
+  - [Computer Networks](https://github.com/liamhauw/computer-sicence/blob/main/README.md#computer-networks)
   - Computer Security and Cryptography
   - Databases and Data Mining
   - [Computer Graphics and Visualization](https://github.com/liamhauw/computer-sicence/blob/main/README.md#computer-graphics-and-visualization)

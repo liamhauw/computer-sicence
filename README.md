@@ -63,6 +63,7 @@
     - Addition
     - Subtraction
 - Matrices
+  - Fundamentals 
 - Transforms 
 - Geometry
 ### Modeling

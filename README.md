@@ -80,14 +80,13 @@
 ### Physical Simulation
 
 # Software Engineering
-### C++
+### [C++](https://isocpp.org)
 - [x] C++ Primer(5th)
 - [x] [The C++ Programming Language(4th)](https://www.stroustrup.com/4th.html)
 - [x] Effective C++(3rd)
 - [ ] Effective Modern C++
 - [ ] C++ Coding Standards
 - [ ] The C++ Standard Library(2nd)
-- [x] [C++](https://isocpp.org)
 - [x] [Bjarne Stroustrup](https://www.stroustrup.com)
 - [x] [LLVM](https://www.llvm.org)
-### TiChi
+### [TiChi](https://www.taichi-lang.org)

@@ -53,19 +53,21 @@
 - [ ] [GAMES202 High-Quality Real-Time Rendering](https://www.bilibili.com/video/BV1YK4y1T7yY)
 
 ## Contents
-- Mathmatics
-  - Vectors 
+### Mathmatics
+- Vectors
+  - Fundamentals
+  - Operations  
     - Magnitude
     - Scalar Multiplication
     - Normalization
     - Addition
     - Subtraction
-  - Matrices
-  - Transforms 
-  - Geometry
-- Modeling
-- Rendering
-- Animation 
+- Matrices
+- Transforms 
+- Geometry
+### Modeling
+### Rendering
+### Animation 
 
  
 # Software Engineering

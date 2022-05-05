@@ -14,19 +14,28 @@
   - Computer Networks
   - Computer Security and Cryptography
   - Databases and Data Mining
-  - Computer Graphics and Visualization 
+  - Computer Graphics and Visualization
+    - Mathmatics
+    - Modeling
+    - Rendering
+      - Real-Time Rendering
+    - Animation
+      - Physical Simulation
+      - Performance Capture 
+      - Character Animation 
   - Image and Sound Processing
 - Applied Computer Science
   - Computational Science, Finance and Engineering
   - Social Computing and Human–Computer Interaction
   - Software Engineering
+    - C++ 
 
 # Data Structures and Algorithms
 - [x] Data Structures
 - [x] [Algorithms](https://programmercarl.com)
 - [x] [LeetCode](https://leetcode-cn.com)
 
-# Computer Systems and Computational Processes
+# Computer Architecture and Organization
 - [x] [Computer Systems A Programmer's Perspective(3rd)](http://csapp.cs.cmu.edu/3e/home.html)
 
 # Computer Networks
@@ -52,8 +61,7 @@
 - [ ] [GAMES201 Advanced Physics Engine 2020](https://www.bilibili.com/video/BV1ZK411H7Hc)
 - [ ] [GAMES202 High-Quality Real-Time Rendering](https://www.bilibili.com/video/BV1YK4y1T7yY)
 
-## Contents
-### Mathmatics
+## Mathmatics
 - Vectors
   - Fundamentals
   - Operations  
@@ -66,11 +74,9 @@
   - Fundamentals 
 - Transforms 
 - Geometry
-### Modeling
-### Rendering
-### Animation 
 
- 
+## Physical Simulation
+
 # Software Engineering
 ## C++
 - [x] C++ Primer(5th)

@@ -37,6 +37,7 @@
 - [ ] Foundations of Game Engine Development Volume 1 Mathematics
 - [ ] [GAMES](https://games-cn.org)
 ### Modeling
+- [ ] [GAMES102 Geometry Modeling and Processing](https://www.bilibili.com/video/BV1NA411E7Yr)  
 ### Rendering
 - [ ] Foundations of Game Engine Development Volume 2 Rendering
 - [ ] Real-Time Rendering(3rd)

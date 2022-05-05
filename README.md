@@ -21,8 +21,6 @@
       - Real-Time Rendering
     - Animation
       - Physical Simulation
-      - Performance Capture 
-      - Character Animation 
   - Image and Sound Processing
 - Applied Computer Science
   - Computational Science, Finance and Engineering
@@ -74,6 +72,8 @@
   - Fundamentals 
 - Transforms 
 - Geometry
+
+## Real-Time Rendering
 
 ## Physical Simulation
 

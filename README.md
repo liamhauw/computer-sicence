@@ -5,22 +5,22 @@
 - Theoretical Computer Science
   - Theory of Computation
   - Information and Coding Theory
-  - Data Structures and Algorithms
+  - [Data Structures and Algorithms](https://github.com/liamhauw/computer-sicence/blob/main/README.md#data-structures-and-algorithms)
   - Programming Language Theory and Formal Methods
 - Computer Systems and Computational Processes
   - Artificial Intelligence
-  - Computer Architecture and Organization
+  - [Computer Architecture and Organization](https://github.com/liamhauw/computer-sicence/blob/main/README.md#computer-architecture-and-organization)
   - Concurrent, Parallel and Distributed Computing
   - Computer Networks
   - Computer Security and Cryptography
   - Databases and Data Mining
-  - Computer Graphics and Visualization
-    - Mathmatics
+  - [Computer Graphics and Visualization](https://github.com/liamhauw/computer-sicence/blob/main/README.md#computer-graphics-and-visualization)
+    - [Mathmatics](https://github.com/liamhauw/computer-sicence/blob/main/README.md#mathmatics)
     - Modeling
     - Rendering
-      - Real-Time Rendering
+      - [Real-Time Rendering](https://github.com/liamhauw/computer-sicence/blob/main/README.md#mathmatics)
     - Animation
-      - Physical Simulation
+      - [Physical Simulation](https://github.com/liamhauw/computer-sicence/blob/main/README.md#physical-simulation)
   - Image and Sound Processing
 - Applied Computer Science
   - Computational Science, Finance and Engineering

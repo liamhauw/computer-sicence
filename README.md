@@ -34,9 +34,9 @@
 
 # Computer Graphics and Visualization
 - [x] Mathematics for 3D Game programming and Computer Graphics(3rd)
+- [ ] Foundations of Game Engine Development Volume 1 Mathematics
 - [ ] [GAMES](https://games-cn.org)
 ### Modeling
-- [ ] Foundations of Game Engine Development Volume 1 Mathematics
 ### Rendering
 - [ ] Foundations of Game Engine Development Volume 2 Rendering
 - [ ] Real-Time Rendering(3rd)

@@ -25,8 +25,10 @@
 - Applied Computer Science
   - Computational Science, Finance and Engineering
   - Social Computing and Human–Computer Interaction
-  - Software Engineering
-    - C++ 
+  - [Software Engineering](https://github.com/liamhauw/computer-sicence/blob/main/README.md#software-engineering)
+    - Programming Language 
+      - [C++](https://github.com/liamhauw/computer-sicence/blob/main/README.md#c)
+      - [TiChi](https://github.com/liamhauw/computer-sicence/blob/main/README.md#TiChi) 
 
 # Data Structures and Algorithms
 - [x] Data Structures
@@ -88,3 +90,4 @@
 - [x] [C++](https://isocpp.org)
 - [x] [Bjarne Stroustrup](https://www.stroustrup.com)
 - [x] [LLVM](https://www.llvm.org)
+### TiChi

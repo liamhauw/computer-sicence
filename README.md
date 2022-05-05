@@ -55,7 +55,15 @@
 ## Contents
 - Mathmatics
   - Vectors
+    - Fundamentals
+    - Operations 
+      - Magnitude
+      - Scalar Multiplication
+      - Normalization
+      - Addition
+      - Subtraction
   - Matrices
+    - Fundamentals 
   - Transforms 
   - Geometry
 - Modeling

@@ -59,7 +59,7 @@
 - [ ] [GAMES201 Advanced Physics Engine 2020](https://www.bilibili.com/video/BV1ZK411H7Hc)
 - [ ] [GAMES202 High-Quality Real-Time Rendering](https://www.bilibili.com/video/BV1YK4y1T7yY)
 
-## Mathmatics
+### Mathmatics
 - Vectors
   - Fundamentals
   - Operations  
@@ -73,12 +73,12 @@
 - Transforms 
 - Geometry
 
-## Real-Time Rendering
+### Real-Time Rendering
 
-## Physical Simulation
+### Physical Simulation
 
 # Software Engineering
-## C++
+### C++
 - [x] C++ Primer(5th)
 - [x] [The C++ Programming Language(4th)](https://www.stroustrup.com/4th.html)
 - [x] Effective C++(3rd)

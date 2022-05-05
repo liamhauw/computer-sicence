@@ -52,10 +52,10 @@
 - [ ] [GAMES201 Advanced Physics Engine 2020](https://www.bilibili.com/video/BV1ZK411H7Hc)
 - [ ] [GAMES202 High-Quality Real-Time Rendering](https://www.bilibili.com/video/BV1YK4y1T7yY)
 
-## contents
+## Contents
 - Mathmatics
   - Vectors
-  - Matrics
+  - Matrices
   - Transforms 
   - Geometry
 - Modeling

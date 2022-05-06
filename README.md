@@ -93,4 +93,4 @@
 - [ ] The C++ Standard Library(2nd)
 - [x] [Bjarne Stroustrup](https://www.stroustrup.com)
 - [x] [LLVM](https://www.llvm.org)
-## [TiChi](https://www.taichi-lang.org)
+## [TaiChi](https://www.taichi-lang.org)

@@ -18,7 +18,6 @@
     - [Mathmatics](https://github.com/liamhauw/computer-sicence/blob/main/README.md#mathmatics)
     - Modeling
     - Rendering
-      - [Real-Time Rendering](https://github.com/liamhauw/computer-sicence/blob/main/README.md#mathmatics)
     - Animation
       - [Physical Simulation](https://github.com/liamhauw/computer-sicence/blob/main/README.md#physical-simulation)
   - Image and Sound Processing
@@ -46,38 +45,37 @@
 - [ ] Foundations of Game Engine Development Volume 1 Mathematics
 - [ ] Foundations of Game Engine Development Volume 2 Rendering
 - [ ] Real-Time Rendering(3rd)
-- [x] Fluid Engine Development
-- [ ] The Art of Fluid Animation
-- [ ] Fluid Simulation for Computer Graphics(2nd)
 - [ ] Game Engine Architecture
 - [x] [LearnOpenGL](https://learnopengl.com)
 - [x] Introduction to 3D Game Programming with DirectX 12
 - [x] [OpenGL](https://www.khronos.org/opengl/)
 - [x] [Direct3D12](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
 - [ ] [GAMES](https://games-cn.org)
-- [ ] [GAMES102 Geometry Modeling and Processing](https://www.bilibili.com/video/BV1NA411E7Yr)  
-- [ ] [GAMES103 Intro to Physics-Based Animation](https://www.bilibili.com/video/BV12Q4y1S73g)
+- [ ] [GAMES102 Geometry Modeling and Processing](https://www.bilibili.com/video/BV1NA411E7Yr) 
 - [ ] [GAMES104 Modern Game Engine](https://www.bilibili.com/video/BV1oU4y1R7Km)
-- [ ] [GAMES201 Advanced Physics Engine 2020](https://www.bilibili.com/video/BV1ZK411H7Hc)
 - [ ] [GAMES202 High-Quality Real-Time Rendering](https://www.bilibili.com/video/BV1YK4y1T7yY)
 
-### Mathmatics
-- Vectors
-  - Fundamentals
-  - Operations  
-    - Magnitude
-    - Scalar Multiplication
-    - Normalization
-    - Addition
-    - Subtraction
-- Matrices
-  - Fundamentals 
-- Transforms 
-- Geometry
-
-### Real-Time Rendering
-
 ### Physical Simulation
+- [x] Fluid Engine Development
+- [ ] The Art of Fluid Animation
+- [ ] Fluid Simulation for Computer Graphics(2nd) 
+- [ ] [GAMES103 Intro to Physics-Based Animation](https://www.bilibili.com/video/BV12Q4y1S73g)
+- [ ] [GAMES201 Advanced Physics Engine 2020](https://www.bilibili.com/video/BV1ZK411H7Hc)
+
+### Contents
+- Mathematics
+  - Vectors
+    - Fundamentals
+    - Operations  
+      - Magnitude
+      - Scalar Multiplication
+      - Normalization
+      - Addition
+      - Subtraction
+  - Matrices
+    - Fundamentals 
+  - Transforms 
+  - Geometry
 
 # Software Engineering
 ### [C++](https://isocpp.org)

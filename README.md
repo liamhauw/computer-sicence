@@ -15,7 +15,7 @@
   - Computer Security and Cryptography
   - Databases and Data Mining
   - [Computer Graphics and Visualization](https://github.com/liamhauw/computer-sicence/blob/main/README.md#computer-graphics-and-visualization)
-    - [Mathmatics](https://github.com/liamhauw/computer-sicence/blob/main/README.md#mathmatics)
+    - Mathmatics
     - Modeling
     - Rendering
     - Animation

@@ -41,10 +41,10 @@
 - [x] [Web development](https://www.youtube.com/watch?v=VfGW0Qiy2I0)
 
 # Computer Graphics and Visualization
+## Base
 - [x] Mathematics for 3D Game programming and Computer Graphics(3rd)
 - [ ] Foundations of Game Engine Development Volume 1 Mathematics
 - [ ] Foundations of Game Engine Development Volume 2 Rendering
-- [ ] Real-Time Rendering(3rd)
 - [ ] Game Engine Architecture
 - [x] Introduction to 3D Game Programming with DirectX 12
 - [x] [LearnOpenGL](https://learnopengl.com)
@@ -53,14 +53,6 @@
 - [ ] [GAMES](https://games-cn.org)
 - [ ] [GAMES102 Geometry Modeling and Processing](https://www.bilibili.com/video/BV1NA411E7Yr) 
 - [ ] [GAMES104 Modern Game Engine](https://www.bilibili.com/video/BV1oU4y1R7Km)
-- [ ] [GAMES202 High-Quality Real-Time Rendering](https://www.bilibili.com/video/BV1YK4y1T7yY)
-
-### Physical Simulation
-- [x] Fluid Engine Development
-- [ ] The Art of Fluid Animation
-- [ ] Fluid Simulation for Computer Graphics(2nd) 
-- [ ] [GAMES103 Intro to Physics-Based Animation](https://www.bilibili.com/video/BV12Q4y1S73g)
-- [ ] [GAMES201 Advanced Physics Engine 2020](https://www.bilibili.com/video/BV1ZK411H7Hc)
 
 ### Contents
 - Mathematics
@@ -77,8 +69,21 @@
   - Transforms 
   - Geometry
 
+## Real-Time Rendering
+- [ ] Real-Time Rendering(3rd)
+- [ ] [GAMES202 High-Quality Real-Time Rendering](https://www.bilibili.com/video/BV1YK4y1T7yY)
+
+## Physical Simulation
+- [x] Fluid Engine Development
+- [ ] The Art of Fluid Animation
+- [ ] Fluid Simulation for Computer Graphics(2nd) 
+- [ ] [GAMES103 Intro to Physics-Based Animation](https://www.bilibili.com/video/BV12Q4y1S73g)
+- [ ] [GAMES201 Advanced Physics Engine 2020](https://www.bilibili.com/video/BV1ZK411H7Hc)
+
+### Content
+
 # Software Engineering
-### [C++](https://isocpp.org)
+## [C++](https://isocpp.org)
 - [x] C++ Primer(5th)
 - [x] The C++ Programming Language(4th) [Book Resource](https://www.stroustrup.com/4th.html)
 - [x] Effective C++(3rd)
@@ -87,4 +92,4 @@
 - [ ] The C++ Standard Library(2nd)
 - [x] [Bjarne Stroustrup](https://www.stroustrup.com)
 - [x] [LLVM](https://www.llvm.org)
-### [TiChi](https://www.taichi-lang.org)
+## [TiChi](https://www.taichi-lang.org)

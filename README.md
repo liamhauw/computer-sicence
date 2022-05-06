@@ -35,7 +35,7 @@
 - [x] [LeetCode](https://leetcode-cn.com)
 
 # Computer Architecture and Organization
-- [x] Computer Systems A Programmer's Perspective(3rd) [:link:](http://csapp.cs.cmu.edu/3e/home.html)
+- [x] Computer Systems A Programmer's Perspective(3rd) [Book Resource](http://csapp.cs.cmu.edu/3e/home.html)
 
 # Computer Networks
 - [x] [Web development](https://www.youtube.com/watch?v=VfGW0Qiy2I0)
@@ -70,7 +70,7 @@
       - Magnitude
       - Scalar Multiplication
       - Normalization
-      - Addition
+      - Addition 
       - Subtraction
   - Matrices
     - Fundamentals 
@@ -80,7 +80,7 @@
 # Software Engineering
 ### [C++](https://isocpp.org)
 - [x] C++ Primer(5th)
-- [x] The C++ Programming Language(4th) [:link:](https://www.stroustrup.com/4th.html)
+- [x] The C++ Programming Language(4th) [Book Resource](https://www.stroustrup.com/4th.html)
 - [x] Effective C++(3rd)
 - [ ] Effective Modern C++
 - [ ] C++ Coding Standards

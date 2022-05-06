@@ -46,8 +46,8 @@
 - [ ] Foundations of Game Engine Development Volume 2 Rendering
 - [ ] Real-Time Rendering(3rd)
 - [ ] Game Engine Architecture
-- [x] [LearnOpenGL](https://learnopengl.com)
 - [x] Introduction to 3D Game Programming with DirectX 12
+- [x] [LearnOpenGL](https://learnopengl.com)
 - [x] [OpenGL](https://www.khronos.org/opengl/)
 - [x] [Direct3D12](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
 - [ ] [GAMES](https://games-cn.org)
@@ -80,7 +80,7 @@
 # Software Engineering
 ### [C++](https://isocpp.org)
 - [x] C++ Primer(5th)
-- [x] [The C++ Programming Language(4th)](https://www.stroustrup.com/4th.html)
+- [x] The C++ Programming Language(4th)[:link:](https://www.stroustrup.com/4th.html)
 - [x] Effective C++(3rd)
 - [ ] Effective Modern C++
 - [ ] C++ Coding Standards

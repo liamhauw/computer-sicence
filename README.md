@@ -35,7 +35,7 @@
 - [x] [LeetCode](https://leetcode-cn.com)
 
 # Computer Architecture and Organization
-- [x] [Computer Systems A Programmer's Perspective(3rd)](http://csapp.cs.cmu.edu/3e/home.html)
+- [x] Computer Systems A Programmer's Perspective(3rd)[index](http://csapp.cs.cmu.edu/3e/home.html)
 
 # Computer Networks
 - [x] [Web development](https://www.youtube.com/watch?v=VfGW0Qiy2I0)

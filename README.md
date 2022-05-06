@@ -18,6 +18,7 @@
     - Mathmatics
     - Modeling
     - Rendering
+      - [Real-Time Rendering](https://github.com/liamhauw/computer-sicence/blob/main/README.md#real-time-rendering)
     - Animation
       - [Physical Simulation](https://github.com/liamhauw/computer-sicence/blob/main/README.md#physical-simulation)
   - Image and Sound Processing

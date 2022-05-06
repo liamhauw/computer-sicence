@@ -26,8 +26,8 @@
   - Social Computing and Human–Computer Interaction
   - [Software Engineering](https://github.com/liamhauw/computer-sicence/blob/main/README.md#software-engineering)
     - Programming Language 
-      - [C++](https://github.com/liamhauw/computer-sicence/blob/main/README.md#c)
-      - [TiChi](https://github.com/liamhauw/computer-sicence/blob/main/README.md#TiChi) 
+      - C++
+      - TiChi
 
 # Data Structures and Algorithms
 - [x] Data Structures

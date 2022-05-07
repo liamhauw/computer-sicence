@@ -1,10 +1,13 @@
 # Introduction
- > Computer science is the study of computation, automation, and information.
-> :book: Book
-  :scroll: Paper
-  :books: Text Resource
-  :tv: Video Resource
-  :office: Offical Website
+Computer science is the study of computation, automation, and information.
+
+| Emoji | Description |
+| ----------- | ----------- |
+| :book: | Book |
+| :scroll: | Paper |
+| :books: | Text Resource |
+| :tv: | Video Resource |
+| :office: | Offical Website |
 
 # Fields
 - Theoretical Computer Science

@@ -81,8 +81,7 @@
 - [ ] [GAMES201 Advanced Physics Engine 2020](https://www.bilibili.com/video/BV1ZK411H7Hc)
 
 ### Contents
-- Mathematics
-  - Jacobi Interation
+  
 - Lagrangian View
   - Mass-Spring Systems
   - Time Integration
@@ -92,6 +91,7 @@
     - Predictive-Corrective Incompressible SPH (PCI-SPH)
     - Position-Based Fluids (PBF)
     - Divergence-Free SPH (DFSPH)  
+  - Jacobi Interation
 - Eulerian View 
 
 

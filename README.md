@@ -1,6 +1,5 @@
 # Introduction
  > Computer science is the study of computation, automation, and information.
-
 > :book: Book
   :scroll: Paper
   :books: Text Resource
@@ -11,7 +10,7 @@
 - Theoretical Computer Science
   - Theory of Computation
   - Information and Coding Theory
-  - Data Structures and Algorithms]
+  - Data Structures and Algorithms
   - Programming Language Theory and Formal Methods
 - Computer Systems and Computational Processes
   - Artificial Intelligence

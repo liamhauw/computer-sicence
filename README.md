@@ -15,7 +15,6 @@
   - Computer Security and Cryptography
   - Databases and Data Mining
   - [Computer Graphics and Visualization](https://github.com/liamhauw/computer-sicence/blob/main/README.md#computer-graphics-and-visualization)
-    - Mathmatics
     - Modeling
     - Rendering
       - [Real-Time Rendering](https://github.com/liamhauw/computer-sicence/blob/main/README.md#real-time-rendering)
@@ -42,7 +41,7 @@
 - [x] [Web development](https://www.youtube.com/watch?v=VfGW0Qiy2I0)
 
 # Computer Graphics and Visualization
-## Base
+## Common
 - [x] Mathematics for 3D Game programming and Computer Graphics(3rd)
 - [ ] Foundations of Game Engine Development Volume 1 Mathematics
 - [ ] Foundations of Game Engine Development Volume 2 Rendering
@@ -82,6 +81,20 @@
 - [ ] [GAMES201 Advanced Physics Engine 2020](https://www.bilibili.com/video/BV1ZK411H7Hc)
 
 ### Contents
+- Mathematics
+  - Jacobi Interation
+- Lagrangian View
+  - Mass-Spring Systems
+  - Time Integration
+    - Explicit (Forward Euler, Symplectic Euler, RK)
+    - Implicit (Backward Euler, Middle-Point)
+  - Lagrangian Fluid Simulation: Smoothed Particle Hydrodynamics(SPH)
+    - Predictive-Corrective Incompressible SPH (PCI-SPH)
+    - Position-Based Fluids (PBF)
+    - Divergence-Free SPH (DFSPH)  
+- Eulerian View 
+
+
 
 # Software Engineering
 ## [C++](https://isocpp.org)

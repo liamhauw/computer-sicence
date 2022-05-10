@@ -91,7 +91,76 @@ Computer science is the study of computation, automation, and information.
 - [ ] :book: Fluid Simulation for Computer Graphics(2nd) 
 
 ### Contents
-  
+
+#### Mathematical Models 
+- Physical Laws
+  - Classical or Newtonian Mechanics
+    - Newton's Laws of Motion
+      - Newtom's First Law
+      - Newtom's Second Law
+      - Newtom's Third Law
+    - Conservation of Mass, Momentum, Energy 
+  - Continuum Mechanics
+    - Conservation Laws for Continua (Soft bodies, Fluids)
+  - Variational or Analytical Mechanics
+- Materials
+  - Rigid Bodies: No Deformation
+    - Kinematics
+      - Center of Mass
+      - Orientation
+      - Local Space
+      - World Space
+    - Linear and Angular Velocity
+    - Linear Momentum
+    - Augular Momentum
+    - Force and Torque
+  - Soft Bodies: Deform Elastically and Plastically
+    - Introducing Elasticity into Newton’s Second Law
+    - Deformation Gradient
+    - Strain
+    - Stress
+    - Elastic Potential, Traction, and Force
+    - Stress Revisited
+    - Plasticity
+  - Fluids
+    - Material Derivative
+    - Forces
+    - Incompressibility
+
+#### Spatial Discretization
+- Reference Frames
+  - Lagrangian
+    - Rigid and Soft Bodies, Tetrahedral Meshed or Particles, Finite Elements
+  - Eulerian
+    - Fluids, Regular Grids, Finite Differences
+- Grids, Meshes, Particles
+- Interpolation
+  - Linear
+  - Bilinear
+  - Trilinear
+  - Barycentric
+  - Polynomial
+  - Approximating Functions
+- Finite Differences
+  - Forward Difference
+  - Backward Difference
+  - Central Difference
+  - Laplacian Operator
+- Finite Elements
+  - Application to Soft Bodies
+
+#### Temporal Discretization
+- Explicit Integration
+  - Forward Euler
+  - Improved Euler
+  - Symplectic Euler
+  - RK2 (Trapezoidal Rule, Midpoint Method)
+- Implicit Integration
+  - Backward Euler
+
+#### Constraints
+
+#### GAMES201
 - Lagrangian View
   - Mass-Spring Systems
   - Time Integration

@@ -86,6 +86,8 @@ Computer science is the study of computation, automation, and information.
 - [ ] :tv: [SIGGRAPH 2019 An Introduction to Physics-Based Animation](https://www.youtube.com/watch?v=b_WJ-HwalwU)
 - [ ] :tv: [GAMES103 Intro to Physics-Based Animation](https://www.bilibili.com/video/BV12Q4y1S73g)
 - [ ] :tv: [GAMES201 Advanced Physics Engine 2020](https://www.bilibili.com/video/BV1ZK411H7Hc)
+- [ ] :office: [GAMES201 Forum](https://forum.taichi.graphics/c/games201/8)
+- [ ] :tv [taichiCourse01](https://github.com/taichiCourse01/taichiCourse01)
 - [x] :book: Fluid Engine Development
 - [ ] :book: The Art of Fluid Animation
 - [ ] :book: Fluid Simulation for Computer Graphics(2nd) 

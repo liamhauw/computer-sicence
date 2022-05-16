@@ -3,11 +3,11 @@ Computer science is the study of computation, automation, and information.
 
 | Emoji | Description |
 | ----------- | ----------- |
-| :book: | Book |
-| :scroll: | Paper |
-| :books: | Text Resource |
-| :tv: | Video Resource |
-| :office: | Offical Website |
+| :book: | Books |
+| :scroll: | Papers |
+| :tv: | Videos|
+| :books: | Other Resources |
+| :office: | Offical Websites |
 
 # Fields
 - Theoretical Computer Science
@@ -23,19 +23,11 @@ Computer science is the study of computation, automation, and information.
   - Computer Security and Cryptography
   - Databases and Data Mining
   - Computer Graphics and Visualization
-    - Modeling
-    - Rendering
-      - Real-Time Rendering
-    - Animation
-      - Physical Simulation (Physics-Based Animation)
   - Image and Sound Processing
 - Applied Computer Science
   - Computational Science, Finance and Engineering
   - Social Computing and Human–Computer Interaction
-  - Software Engineering]
-    - Programming Language 
-      - C++
-      - TiChi
+  - Software Engineering
 
 # Data Structures and Algorithms
 - [x] :book: Dahua Data Structures
@@ -55,39 +47,25 @@ Computer science is the study of computation, automation, and information.
 - [ ] :book: Foundations of Game Engine Development Volume 1 Mathematics
 - [x] :tv: [GAMES102 Geometry Modeling and Processing](https://www.bilibili.com/video/BV1NA411E7Yr) 
 - [ ] :book: Foundations of Game Engine Development Volume 2 Rendering
+- [ ] :book: Real-Time Rendering(3rd)
+- [ ] :tv: [GAMES202 High-Quality Real-Time Rendering](https://www.bilibili.com/video/BV1YK4y1T7yY) 
 - [x] :office: [OpenGL](https://www.khronos.org/opengl/)
 - [x] :books: [LearnOpenGL](https://learnopengl.com)
 - [x] :office: [Direct3D12](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
 - [x] :book: Introduction to 3D Game Programming with DirectX 12
 - [ ] :book: Game Engine Architecture
 - [x] :tv: [GAMES104 Modern Game Engine](https://www.bilibili.com/video/BV1oU4y1R7Km)
+ 
+## Photorealistic Rendering
+- [ ] :books: [pbrt](https://www.pbrt.org)
 
-### Contents
-- Mathematics
-  - Vectors
-    - Fundamentals
-    - Operations  
-      - Magnitude
-      - Scalar Multiplication
-      - Normalization
-      - Addition 
-      - Subtraction
-  - Matrices
-    - Fundamentals 
-  - Transforms 
-  - Geometry
-
-## Real-Time Rendering
-- [ ] :book: Real-Time Rendering(3rd)
-- [ ] :tv: [GAMES202 High-Quality Real-Time Rendering](https://www.bilibili.com/video/BV1YK4y1T7yY)  
-
-## Physical Simulation (Physics-Based Animation)
+## Physical Simulation
 - [ ] :scroll: An Introduction to Physics-based Animation(2018)
 - [ ] :tv: [SIGGRAPH 2019 An Introduction to Physics-Based Animation](https://www.youtube.com/watch?v=b_WJ-HwalwU)
 - [ ] :tv: [GAMES103 Intro to Physics-Based Animation](https://www.bilibili.com/video/BV12Q4y1S73g)
 - [ ] :tv: [GAMES201 Advanced Physics Engine 2020](https://www.bilibili.com/video/BV1ZK411H7Hc)
-- [ ] :office: [GAMES201 Forum](https://forum.taichi.graphics/c/games201/8)
-- [ ] :tv [taichiCourse01](https://github.com/taichiCourse01/taichiCourse01)
+- [ ] :tv: [taichiCourse01](https://github.com/taichiCourse01/taichiCourse01)
+- [ ] :books: [shadertoy](https://www.shadertoy.com)
 - [x] :book: Fluid Engine Development
 - [ ] :book: The Art of Fluid Animation
 - [ ] :book: Fluid Simulation for Computer Graphics(2nd) 

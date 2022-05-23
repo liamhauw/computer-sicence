@@ -1,7 +1,6 @@
 # Introduction
 Computer science is the study of computation, automation, and information.
 
-
 | Emoji | Description |
 | ----------- | ----------- |
 | :book: | Books |
@@ -43,10 +42,9 @@ Computer science is the study of computation, automation, and information.
 
 # Computer Graphics and Visualization
 ## Common
-- [x] :office: [GAMES](https://games-cn.org)
 - [x] :book: Mathematics for 3D Game programming and Computer Graphics(3rd)
 - [ ] :book: Foundations of Game Engine Development Volume 1 Mathematics
-- [x] :tv: [GAMES102 Geometry Modeling and Processing](https://www.bilibili.com/video/BV1NA411E7Yr) 
+- [ ] :tv: [GAMES102 Geometry Modeling and Processing](https://www.bilibili.com/video/BV1NA411E7Yr) 
 - [ ] :book: Foundations of Game Engine Development Volume 2 Rendering
 - [ ] :book: Real-Time Rendering(3rd)
 - [ ] :tv: [GAMES202 High-Quality Real-Time Rendering](https://www.bilibili.com/video/BV1YK4y1T7yY) 
@@ -55,18 +53,17 @@ Computer science is the study of computation, automation, and information.
 - [x] :office: [Direct3D12](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
 - [x] :book: Introduction to 3D Game Programming with DirectX 12
 - [ ] :book: Game Engine Architecture
-- [x] :tv: [GAMES104 Modern Game Engine](https://www.bilibili.com/video/BV1oU4y1R7Km)
+- [ ] :tv: [GAMES104 Modern Game Engine](https://www.bilibili.com/video/BV1oU4y1R7Km)
  
-## Photorealistic Rendering
+## Physically based Rendering
 - [ ] :books: [pbrt](https://www.pbrt.org)
 
 ## Physical Simulation
-- [ ] :scroll: An Introduction to Physics-based Animation(2018)
-- [ ] :tv: [SIGGRAPH 2019 An Introduction to Physics-Based Animation](https://www.youtube.com/watch?v=b_WJ-HwalwU)
-- [ ] :tv: [GAMES103 Intro to Physics-Based Animation](https://www.bilibili.com/video/BV12Q4y1S73g)
-- [ ] :tv: [GAMES201 Advanced Physics Engine 2020](https://www.bilibili.com/video/BV1ZK411H7Hc)
+- [x] :scroll: An Introduction to Physics-based Animation(2018)
+- [x] :tv: [SIGGRAPH 2019 An Introduction to Physics-Based Animation](https://www.youtube.com/watch?v=b_WJ-HwalwU)
 - [ ] :tv: [taichiCourse01](https://github.com/taichiCourse01/taichiCourse01)
 - [ ] :books: [shadertoy](https://www.shadertoy.com)
+- [ ] :tv: [GAMES201 Advanced Physics Engine 2020](https://www.bilibili.com/video/BV1ZK411H7Hc)
 - [x] :book: Fluid Engine Development
 - [ ] :book: The Art of Fluid Animation
 - [ ] :book: Fluid Simulation for Computer Graphics(2nd) 

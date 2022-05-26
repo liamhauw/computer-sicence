@@ -7,7 +7,6 @@ Computer science is the study of computation, automation, and information.
 | :scroll: | Papers |
 | :tv: | Videos|
 | :books: | Other Resources |
-| :office: | Offical Websites |
 
 # Fields
 - Theoretical Computer Science
@@ -32,7 +31,7 @@ Computer science is the study of computation, automation, and information.
 # Data Structures and Algorithms
 - [x] :book: Dahua Data Structures
 - [ ] :books: [Programmercarl](https://programmercarl.com)
-- [ ] :office: [LeetCode](https://leetcode-cn.com)
+- [ ] :books: [LeetCode](https://leetcode-cn.com)
 
 # Computer Architecture and Organization
 - [x] :book: Computer Systems A Programmer's Perspective(3rd)
@@ -48,19 +47,18 @@ Computer science is the study of computation, automation, and information.
 - [ ] :book: Foundations of Game Engine Development Volume 2 Rendering
 - [ ] :book: Real-Time Rendering(3rd)
 - [ ] :tv: [GAMES202 High-Quality Real-Time Rendering](https://www.bilibili.com/video/BV1YK4y1T7yY) 
-- [x] :office: [OpenGL](https://www.khronos.org/opengl/)
+- [x] :books: [OpenGL](https://www.khronos.org/opengl/)
 - [x] :books: [LearnOpenGL](https://learnopengl.com)
-- [x] :office: [Direct3D12](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
+- [x] :books: [Direct3D12](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
 - [x] :book: Introduction to 3D Game Programming with DirectX 12
 - [ ] :book: Game Engine Architecture
 - [ ] :tv: [GAMES104 Modern Game Engine](https://www.bilibili.com/video/BV1oU4y1R7Km)
  
-## Physically based Rendering
+## Physically Based Rendering
 - [ ] :books: [pbrt](https://www.pbrt.org)
 
 ## Physical Simulation
 - [x] :scroll: An Introduction to Physics-based Animation(2018)
-- [x] :tv: [SIGGRAPH 2019 An Introduction to Physics-Based Animation](https://www.youtube.com/watch?v=b_WJ-HwalwU)
 - [ ] :tv: [taichiCourse01](https://github.com/taichiCourse01/taichiCourse01)
 - [ ] :books: [shadertoy](https://www.shadertoy.com)
 - [ ] :tv: [GAMES201 Advanced Physics Engine 2020](https://www.bilibili.com/video/BV1ZK411H7Hc)
@@ -162,13 +160,13 @@ Computer science is the study of computation, automation, and information.
 
 # Software Engineering
 ## C++
-- [x] :office: [C++](https://isocpp.org)
+- [x] :books: [C++](https://isocpp.org)
 - [x] :book: C++ Primer(5th)
 - [x] :book: The C++ Programming Language(4th)
 - [x] :book: Effective C++(3rd)
 - [ ] :book: Effective Modern C++
 - [ ] :book: C++ Coding Standards
 - [ ] :book: The C++ Standard Library(2nd)
-- [x] :office: [LLVM](https://www.llvm.org)
+- [x] :books: [LLVM](https://www.llvm.org)
 ## TaiChi
-- [ ] :office: [TaiChi](https://www.taichi-lang.org)
+- [ ] :books: [TaiChi](https://www.taichi-lang.org)

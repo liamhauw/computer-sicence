@@ -3,9 +3,8 @@ Computer science is the study of computation, automation, and information.
 
 | Emoji | Description |
 | ----------- | ----------- |
-| :book: | Books |
-| :scroll: | Papers |
-| :tv: | Videos|
+| :book: | Books & Papers |
+| :tv: | Videos |
 | :books: | Other Resources |
 
 # Fields
@@ -37,30 +36,38 @@ Computer science is the study of computation, automation, and information.
 - [x] :book: Computer Systems A Programmer's Perspective(3rd)
 
 # Computer Networks
-- [x] :tv: [Web development](https://www.youtube.com/watch?v=VfGW0Qiy2I0)
+- [x] :tv: [Web Development](https://www.youtube.com/watch?v=VfGW0Qiy2I0)
 
 # Computer Graphics and Visualization
 ## Common
+- [ ] :book: Matrix Algebra  
+- [ ] :book: The Matrix Cookbook
+- [ ] :book: Calculus on Manifolds
 - [x] :book: Mathematics for 3D Game programming and Computer Graphics(3rd)
-- [ ] :book: Foundations of Game Engine Development Volume 1 Mathematics
-- [ ] :tv: [GAMES102 Geometry Modeling and Processing](https://www.bilibili.com/video/BV1NA411E7Yr) 
+- [ ] :book: Foundations of Game Engine Development Volume 1 Mathematics 
 - [ ] :book: Foundations of Game Engine Development Volume 2 Rendering
-- [ ] :book: Real-Time Rendering(3rd)
-- [ ] :tv: [GAMES202 High-Quality Real-Time Rendering](https://www.bilibili.com/video/BV1YK4y1T7yY) 
+- [ ] :book: Game Engine Architecture
+- [ ] :tv: [GAMES104 Modern Game Engine](https://www.bilibili.com/video/BV1oU4y1R7Km)
 - [x] :books: [OpenGL](https://www.khronos.org/opengl/)
 - [x] :books: [LearnOpenGL](https://learnopengl.com)
 - [x] :books: [Direct3D12](https://docs.microsoft.com/en-us/windows/win32/direct3d12/direct3d-12-graphics)
 - [x] :book: Introduction to 3D Game Programming with DirectX 12
-- [ ] :book: Game Engine Architecture
-- [ ] :tv: [GAMES104 Modern Game Engine](https://www.bilibili.com/video/BV1oU4y1R7Km)
- 
+
+## Real-Time Rendering
+- [ ] :book: Real-Time Rendering(3rd)
+- [ ] :tv: [GAMES202 High-Quality Real-Time Rendering](https://www.bilibili.com/video/BV1YK4y1T7yY) 
+
 ## Physically Based Rendering
-- [ ] :books: [pbrt](https://www.pbrt.org)
+- [x] :books: [pbrt](https://www.pbrt.org)
 
 ## Physical Simulation
-- [x] :scroll: An Introduction to Physics-based Animation(2018)
 - [ ] :tv: [taichiCourse01](https://github.com/taichiCourse01/taichiCourse01)
 - [ ] :books: [shadertoy](https://www.shadertoy.com)
+- [x] :book: An Introduction to Physics-based Animation(2018)
+- [ ] :book: Real Time Physics
+- [ ] :book: Discrete Geometric Mechanics for Variational Time Integrators
+- [ ] :book: The Classical FEM Method and Discretization Methodology
+- [ ] :book: Model Reduction
 - [ ] :tv: [GAMES201 Advanced Physics Engine 2020](https://www.bilibili.com/video/BV1ZK411H7Hc)
 - [x] :book: Fluid Engine Development
 - [ ] :book: The Art of Fluid Animation
@@ -128,7 +135,7 @@ Computer science is the study of computation, automation, and information.
 #### Temporal Discretization
 - Explicit Integration
   - Forward Euler
-  - Improved Euler
+  - Improved Euler 
   - Symplectic Euler
   - RK2 (Trapezoidal Rule, Midpoint Method)
 - Implicit Integration
@@ -169,4 +176,4 @@ Computer science is the study of computation, automation, and information.
 - [ ] :book: The C++ Standard Library(2nd)
 - [x] :books: [LLVM](https://www.llvm.org)
 ## TaiChi
-- [ ] :books: [TaiChi](https://www.taichi-lang.org)
+- [x] :books: [TaiChi](https://www.taichi-lang.org)
